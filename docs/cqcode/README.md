@@ -386,6 +386,8 @@ Type : `image`
 
 示例: `[CQ:image,file=http://baidu.com/1.jpg,type=show,id=40004]`
 
+示例2: `[CQ:image,file=file:///C:\\Users\Alice\Pictures\1.png]`
+
 ::: warning 注意
 图片最大不能超过30MB
 
